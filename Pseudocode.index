@@ -1,0 +1,89 @@
+//Something Happens
+//A self playing incremental
+//By Jeremy Owens
+//Copyright 2023 by ADS
+//Version Pre-Alpha 1:Not Yet
+//INFO
+/*
+1/8/23
+first commit
+test of Github
+little if any code
+horrible consistency
+even worse syntax and grammar
+a lot of brainstorming
+*/
+
+//TODO learn enough code to build anything
+
+//MECHANICS
+//7 effort allocation bars, input box, check redistribute, set, pool, override lock, show/hide/lock Concept, filter, search, 
+//^ dropdown from top bar or popup in Thought or 4 box expandable or own page
+
+//Basic loop
+
+for i{
+	
+	
+//Do things
+
+
+
+//Squelch aka cleanup or merge?
+
+
+
+//Library
+
+
+
+//basic LAYOUT
+
+//MAIN
+
+//General page 9 panes, static expandable, *or dragable map and panes, snap to grid like Alkahistorian part 3, Alterhistorian* top bar static, bottom bar nav, right side pullout
+
+//INFO example
+/*
+  12 Information 12
+  PU Box Box Box PU
+  LL  1   2   3  LL
+  OU Merged  Box OU
+  TO Box 4,5  6M TO
+  VE Box Box  ,M VE
+  RL  7   8   9M RL
+  AY  Navigation AY
+*/
+
+//Left side aka resources >> top if not good place
+
+// box 2 aka details >> popup? shows slowdowns, contributions per second, etc.
+
+//Right side aka system >> pullout? things you can do
+
+// box 3 focus user determined.  squelch overrides, resource focus, favorites, etc.
+
+// Middle aka log Where something happens.
+
+//Bottom aka Navigation Main, Settings, About buttons -- Systems dropup
+
+//INFO *=mostly visual, non interactive, not obviously M or B.  M=Mechanical.  B=Biological
+//Systems dropup Thought*, InfluenceM, ActionB, Point of View*, DesignB, ConstructionM, ManagementB, OversightM
+//^ one click stays open, click outside closes, lock open/closed button?
+
+//SETTINGS
+
+//Left aka experimental
+
+//Right aka easy
+
+//SYSTEMS
+
+//THOUGHT
+
+//bubble link map, effort allocaton like cpu in Singularity II:endgame
+//INFO See MECHANICS 7
+//Right side Detail view of known Concepts with Links, Sets, %complete, devoted/estimated resources, and quicklink ?lock/hidable? to Effort allocation
+
+//Left side resources
+//^ 
